@@ -1,1 +1,2 @@
-# blog
+个人模仿的一个blog
+新手入门Django
